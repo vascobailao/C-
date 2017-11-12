@@ -1,0 +1,2 @@
+Process 35304 started to generate Fibonacci up to 1000.
+Process 35304 finished Fibonacci series at value: 8261794739546030242.

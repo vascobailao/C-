@@ -1,0 +1,240 @@
+iteração 1
+pid: 32649	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32673	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32696	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 32719	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32742	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32761	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 32780	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32802	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 32820	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32838	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 32912	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32923	 execution time :24 s
+total time: 24 
+iteração 1
+pid: 32945	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 32981	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 32999	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33050	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33074	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33138	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33160	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33181	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33205	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 33228	 execution time :2 s
+total time: 2 
+iteração 2
+pid: 33229	 execution time :0 s
+total time: 2 
+iteração 1
+pid: 33251	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33275	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33298	 execution time :0 s
+total time: 0 
+iteração 2
+pid: 33299	 execution time :2 s
+total time: 2 
+iteração 3
+pid: 33302	 execution time :3 s
+total time: 5 
+iteração 1
+pid: 33342	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33368	 execution time :1 s
+total time: 1 
+iteração 1
+pid: 33381	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33393	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33413	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33426	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33452	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 33468	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33487	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33522	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33553	 execution time :0 s
+total time: 0 
+iteração 2
+pid: 33554	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33575	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 33921	 execution time :1 s
+total time: 1 
+iteração 1
+pid: 33947	 execution time :1 s
+total time: 1 
+iteração 1
+pid: 33981	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 34006	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34038	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34051	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34076	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 34105	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34141	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34184	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 34210	 execution time :1 s
+total time: 1 
+iteração 1
+pid: 34239	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34260	 execution time :1 s
+total time: 1 
+iteração 1
+pid: 34278	 execution time :0 s
+total time: 0 
+iteração 2
+pid: 34279	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 34321	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34357	 execution time :3 s
+total time: 3 
+iteração 2
+pid: 34400	 execution time :0 s
+total time: 3 
+iteração 1
+pid: 34419	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34442	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 34465	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 34511	 execution time :1 s
+total time: 1 
+iteração 1
+pid: 34539	 execution time :1 s
+total time: 1 
+iteração 1
+pid: 34562	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34691	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34749	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 34772	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34794	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34822	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 34842	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34862	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 34908	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 34943	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 34973	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 35249	 execution time :3 s
+total time: 3 
+iteração 1
+pid: 35267	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 35304	 execution time :0 s
+total time: 0 
+iteração 1
+pid: 35403	 execution time :2 s
+total time: 2 
+iteração 1
+pid: 35560	 execution time :0 s
+total time: 0 
